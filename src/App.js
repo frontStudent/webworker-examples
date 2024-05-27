@@ -1,5 +1,3 @@
-// MyComponent.js
-
 import React from "react";
 import WorkerPool from "./WorkerPool";
 import { findPrimes } from "./utils/findPrimes";
